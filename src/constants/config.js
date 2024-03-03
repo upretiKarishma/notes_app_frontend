@@ -1,0 +1,1 @@
+export const BASE_URL="https://fair-ruby-magpie-garb.cyclic.app/"

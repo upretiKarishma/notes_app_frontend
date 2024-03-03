@@ -1,0 +1,128 @@
+.social-links {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+}
+
+.social-links a {
+  margin: 0 5px; 
+  font-size: 2rem;
+  padding: 5px 5px;
+}
+.note{
+    margin-top: 30px;
+    font-size: 2rem;
+    font-weight: 600;
+}
+.home_image{
+    margin-left: 350px;
+    width: 50%;
+    margin-top: 50px;
+}
+
+.text{
+    margin-left: 300px;
+    margin-right: 250px;
+    margin-top: 40px;
+}
+@media screen and (max-width: 600px){
+    .home_image{
+       
+    display: block;
+    margin: 0 auto; 
+    width: 80%;
+    margin-top: 20px;
+  
+    }
+    .note{
+        font-size: 1.5rem;
+    }
+    .social-links a{
+        font-size:1.5rem;
+    }
+   
+  .text {
+    font-size: 14px; 
+    margin: 0 auto;
+  max-width: 80%;
+  white-space: normal;
+  margin-top: 30px;
+  }
+}
+
+@media screen and (max-width: 800px){
+      .home_image{
+         display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+  
+    }
+     .text {
+    font-size: 14px; 
+    margin: 0 auto;
+  max-width: 80%;
+  white-space: normal;
+  margin-top: 30px;
+  }
+}
+
+
+@media screen and (max-width: 1000px) {
+  .home_image {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+ .text {
+    font-size: 14px; 
+    margin: 0 auto;
+  max-width: 80%;
+  white-space: normal;
+  margin-top: 30px;
+  }
+  }
+
+  @media screen and (max-width: 1100px) {
+  .home_image {
+    display: block;
+    margin: 0 auto; /* Center the image horizontally */
+    margin-top: 20px;
+  }
+   .text {
+    font-size: 14px; 
+    margin: 0 auto;
+  max-width: 80%;
+  white-space: normal;
+  margin-top: 30px;
+  }
+}
+
+  @media screen and (max-width: 1200px) {
+  .home_image {
+    display: block;
+    margin: 0 auto; /* Center the image horizontally */
+    margin-top: 20px;
+  }
+   .text {
+    font-size: 14px; 
+    margin: 0 auto;
+  max-width: 80%;
+  white-space: normal;
+  margin-top: 30px;
+  }
+}
+
+@media screen and (max-width: 1500px) {
+  .home_image {
+    display: block;
+    margin: 0 auto; /* Center the image horizontally */
+    margin-top: 20px;
+  }
+   .text {
+    font-size: 14px; 
+    margin: 0 auto;
+  max-width: 80%;
+  white-space: normal;
+  margin-top: 30px;
+  }
+}
